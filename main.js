@@ -1,3 +1,4 @@
+//khuat van duc
 var vueInstance= new Vue({
   el: '#app',
   data: {
